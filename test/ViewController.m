@@ -10,6 +10,7 @@
 
 @interface ViewController ()
 @property (weak, nonatomic) IBOutlet UILabel *yigeLabel;
+@property (strong, nonatomic) NSString *woshi;
 
 @end
 
